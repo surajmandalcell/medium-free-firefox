@@ -1,12 +1,12 @@
 {
   "manifest_version": 2,
  
-  "name": "Remove Members Only Posts - Medium",
+  "name": "Medium Free",
   "version": "0.2.0",
-  "description": "An extension for removing medium only posts",
+  "description": "An extension for removing medium member only posts",
  
   "content_scripts": [{
-    "js": ["jquery-3.2.1.min.js", "content.js"],
+    "js": ["jquery.min.js", "content.js"],
     "matches": ["https://medium.com/*"]
   }]
  
