@@ -2,11 +2,12 @@
   "manifest_version": 2,
  
   "name": "Medium Free",
-  "version": "0.2.0",
+  "version": "0.2.1",
+  "author": "Suraj Mandal",
   "description": "An extension for removing medium member only posts",
  
   "content_scripts": [{
-    "js": ["jquery.min.js", "content.js"],
+    "js": ["jquery.min.js" ,"content.js"],
     "matches": ["https://medium.com/*"]
   }]
  
