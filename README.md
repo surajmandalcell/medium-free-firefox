@@ -1,7 +1,9 @@
-# Medium free
+# Medium Free Firefox
 
-Ever get annoyed by the only 3 premum readings per month rule and even after that the star posts keep appearing on meduium? This extension helps you with that.
+This extension lets you remove premium posts from medium.com after your free 3 article read expires.
 
-An firefox extension to remove all the ★ posts from medium.com 
 
-![](screenshot.png)
+Original Chrome Extension : https://github.com/l2silver/medium-remove-members-only-chrome-extension
+
+License :
+MIT © Suraj Mandal
