@@ -7,8 +7,11 @@ function removeMediumTags(){
     $(icon).closest('div.streamItem').remove();
     $(icon).closest('div.extremeHero-compact').remove();
     $(icon).closest('div.u-borderBox.js-sectionItem').remove();
-    $('.js-homeStream').css('display', 'none');
     removeMediumTags();
   }, 500);
 }
 removeMediumTags();
+
+
+// tmp
+// $('.js-homeStream').css('display', 'none');
