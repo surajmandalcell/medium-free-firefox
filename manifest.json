@@ -2,7 +2,7 @@
   "manifest_version": 2,
  
   "name": "Medium Free",
-  "version": "0.2.2",
+  "version": "0.2.3",
   "author": "Suraj Mandal",
   "description": "An extension for removing medium member only posts",
   "icons": {
